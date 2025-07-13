@@ -21,7 +21,7 @@
     <h3>Join the Conversation</h3>
     <p>The heart of our community is on Discord. Join hundreds of members to discuss problems, share resources, and
     get involved in our next event.</p>
-    <a href="#" data-link="external:discord" target="_blank" class="md-button md-button--primary">Join Our Discord</a>
+    <a href="#" data-link="external:discord" target="_blank" class="md-button md-button--primary discord">Join Our Discord</a>
   </div>
   <div class="card">
     <h3>Join Our Community</h3>

@@ -1,3 +1,6 @@
+<html>
+<link rel="stylesheet" href="custom.css">
+
 <div class="hero-section">
   <h1>About ICPC Menofia Community</h1>
   <p class="md-typeset hero-subtitle">
@@ -76,3 +79,5 @@ and teamwork, we're building a legacy in the competitive programming world.
   <p>Be part of our future achievements. Whether you're a beginner or a seasoned coder, your journey starts here.</p>
   <a href="#" data-link="page:join" class="md-button md-button--primary md-button--large">Learn How to Join</a>
 </div>
+
+</html>
